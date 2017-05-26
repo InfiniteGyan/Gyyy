@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String index()
 	{
-		return "hello world My name is Gyan";
+		return "hello world My name is Gyan war";
 	}
 
 }
